@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">DaggarMvvmNotes</string>
+    <string name="title">Title</string>
+    <string name="create_note">Create Note</string>
+    <string name="save">save</string>
+    <string name="enter_text_here">Enter text here...</string>
+    <string name="save_notes">Saved Notes</string>
+    <string name="add_note_validation">Please add a note to continue.</string>
+    <string name="view_saved_notes"><u>View Saved Notes</u></string>
+    <string name="note_saved">Note saved successfully.</string>
+    <string name="no_note">No Note found, please add one.</string>
+    <string name="welcome_to_notes">Welcome to Notes</string>
+    <string name="notes">Notes</string>
+</resources>
